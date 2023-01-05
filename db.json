@@ -1,22 +1,35 @@
 {
-    "data": [
-      {
-        "pop": "12000",
-        "city": "Karachi",
-        "country": "Pakistan",
-        "id": 2
-      },
-      {
-        "pop": "20000000",
-        "city": "Mumbai",
-        "country": "India",
-        "id": 3
-      },
-      {
-        "pop": "22200",
-        "city": "Kolkata",
-        "country": "India",
-        "id": 4
-      }
-    ]
-  }
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+			"type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+			"type":"Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
+}
+
