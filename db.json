@@ -30,6 +30,43 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "signup":[
+    {
+      "id" : 1,
+      "username":"Sumit",
+      "email":"skumarcbr4@gmail.com",
+      "password":12345
+    },
+    {
+      "id" : 2,
+      "username":"Rahul",
+      "email":"r@gmail.com",
+      "password":12345
+    }
+
+  ],
+  "login":[
+    {
+      "id" : 1,
+      "username":"Sumit",
+      "password":12345
+    },
+    {
+      "id" : 2,
+      "username":"Rahul",
+      "password":12345
+    }
+
+  ],
+  "Task":[
+    {
+     "id":1,
+     "userId":1,
+      "tasks" : "build webPage"
+    }
   ]
+
+  
 }
 
