@@ -43,6 +43,20 @@
       "username":"Rahul",
       "email":"r@gmail.com",
       "password":12345
+    },
+    {
+      "username": "Sumit kumar dey sarkar",
+      "email": "s@gmail.com",
+      "password": "12345",
+      "confirm_password": "12345",
+      "id": 3
+    },
+    {
+      "username": "a@gmail.com",
+      "email": "a@gmail.com",
+      "password": "12345",
+      "confirm_password": "12345",
+      "id": 4
     }
 
   ],
@@ -64,6 +78,11 @@
      "id":1,
      "userId":1,
       "tasks" : "build webPage"
+    },
+    {
+      "username": "a@gmail.com",
+      "password": "12345",
+      "id": 3
     }
   ]
 
