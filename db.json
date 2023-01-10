@@ -100,6 +100,13 @@
       "age": "3",
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 1,
+      "name": "Jimmy",
+      "age": "10",
+      "place": "WB",
+      "gender": "Male"
     }
   ]
 
